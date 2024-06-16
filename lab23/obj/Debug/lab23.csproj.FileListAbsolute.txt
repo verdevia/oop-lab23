@@ -1,0 +1,10 @@
+D:\НУПП\ООП\lab23\bin\Debug\lab23.exe.config
+D:\НУПП\ООП\lab23\bin\Debug\lab23.exe
+D:\НУПП\ООП\lab23\bin\Debug\lab23.pdb
+D:\НУПП\ООП\lab23\obj\Debug\lab23.csproj.AssemblyReference.cache
+D:\НУПП\ООП\lab23\obj\Debug\lab23.Form1.resources
+D:\НУПП\ООП\lab23\obj\Debug\lab23.Properties.Resources.resources
+D:\НУПП\ООП\lab23\obj\Debug\lab23.csproj.GenerateResource.cache
+D:\НУПП\ООП\lab23\obj\Debug\lab23.csproj.CoreCompileInputs.cache
+D:\НУПП\ООП\lab23\obj\Debug\lab23.exe
+D:\НУПП\ООП\lab23\obj\Debug\lab23.pdb
